@@ -1,0 +1,30 @@
+{
+  "id": "paintings",
+  "name": "Paintings",
+  "version": 1,
+  "default": "monet-water-lilies.jpg",
+  "pictures": [
+    {"file": "caillebotte-floor-scrapers.jpg", "title": "The Floor Scrapers", "artist": "Gustave Caillebotte", "year": "1875",
+     "source": "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_The_Floor_Planers_-_Google_Art_Project.jpg"},
+    {"file": "caillebotte-rainy-day.jpg", "title": "Paris Street; Rainy Day", "artist": "Gustave Caillebotte", "year": "1877",
+     "source": "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street;_Rainy_Day_-_Google_Art_Project.jpg"},
+    {"file": "eakins-single-scull.jpg", "title": "Max Schmitt in a Single Scull", "artist": "Thomas Eakins", "year": "1871",
+     "source": "https://commons.wikimedia.org/wiki/File:Max_Schmitt_in_a_Single_Scull.jpg"},
+    {"file": "fildes-the-doctor.jpg", "title": "The Doctor", "artist": "Luke Fildes", "year": "1891",
+     "source": "https://commons.wikimedia.org/wiki/File:The_Doctor_Luke_Fildes_crop.jpg"},
+    {"file": "kroyer-hip-hip-hurrah.jpg", "title": "Hip, Hip, Hurrah! Artists' Party, Skagen", "artist": "P. S. Krøyer", "year": "1888",
+     "source": "https://commons.wikimedia.org/wiki/File:Hipp_hipp_hurra!_Konstn%C3%A4rsfest_p%C3%A5_Skagen_-_Peder_Severin_Kr%C3%B8yer.jpg"},
+    {"file": "kroyer-summer-evening.jpg", "title": "Summer Evening on the Beach at Skagen", "artist": "P. S. Krøyer", "year": "1899",
+     "source": "https://commons.wikimedia.org/wiki/File:Peder_Severin_Kr%C3%B8yer_-_Summer_evening_on_the_beach_at_Skagen._The_painter_and_his_wife._-_Google_Art_Project.jpg"},
+    {"file": "monet-water-lilies.jpg", "title": "Water Lilies", "artist": "Claude Monet", "year": "1915",
+     "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Seerosen.jpg"},
+    {"file": "renoir-boating-party.jpg", "title": "Luncheon of the Boating Party", "artist": "Pierre-Auguste Renoir", "year": "1881",
+     "source": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg"},
+    {"file": "seurat-grande-jatte.jpg", "title": "A Sunday on La Grande Jatte", "artist": "Georges Seurat", "year": "1884",
+     "source": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_Un_dimanche_apr%C3%A8s-midi_%C3%A0_l%27%C3%AEle_de_la_Grande_Jatte.jpg"},
+    {"file": "turner-rain-steam-speed.jpg", "title": "Rain, Steam and Speed", "artist": "J. M. W. Turner", "year": "1844",
+     "source": "https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg"},
+    {"file": "wright-orrery.jpg", "title": "A Philosopher Lecturing on the Orrery", "artist": "Joseph Wright of Derby", "year": "1766",
+     "source": "https://commons.wikimedia.org/wiki/File:Wright_of_Derby,_The_Orrery.jpg"}
+  ]
+}
